@@ -1,0 +1,6 @@
+void calc()
+{
+
+  string name1;
+  string 2name;
+}
