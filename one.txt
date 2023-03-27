@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 galib
-=======
-asadullah al galib
->>>>>>> a65be6314b21a868db41ef694422a7be73faf6dd
