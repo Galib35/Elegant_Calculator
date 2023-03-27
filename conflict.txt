@@ -3,4 +3,8 @@ void calc()
 
   string name1;
   string name2;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> a15eaf07aee3041a67a6eba6a4c25b1aa5ba977c
